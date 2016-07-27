@@ -1,7 +1,7 @@
 ## Install
 
 ```
-$ bower install ionic-zoom-view --save
+$ bower install https://github.com/Yuko7245/ionic-zoom-view.git --save
 ```
 
 ## Usage
